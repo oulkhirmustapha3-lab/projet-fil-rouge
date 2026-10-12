@@ -149,7 +149,7 @@
 }
 .logo-card{
     border-radius: 8%;
-    background-color: red;
+    background-color: rgb(241, 106, 106);
     padding: 10px 15px 10px 15px;
     font-size: 30px;   
 }
@@ -188,7 +188,7 @@
 }
 .footer{
     margin-top: 80px;
-    background-color:rgb(194, 243, 243) ;
+    background-color:#FAF5F1 ;
     padding: 100px 40px;
     box-sizing: border-box;
 }
